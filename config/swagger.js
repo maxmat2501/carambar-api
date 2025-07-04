@@ -11,7 +11,7 @@ const options = {
     },
     servers: [
       {
-        url: 'http://localhost:3000/api/v1',
+        url: 'https://carambar-api-0cqu.onrender.com/api/v1',
       },
     ],
   },
